@@ -1,15 +1,15 @@
-# Présentation :mega:
-Je m'appelle Vincent Zepharren, j'ai 38 ans, je suis en situation de handicap.
-L'année dernière, j'ai fait une formation de Développeur Web et Web Mobile chez O'Clock et cette année j'ai passé le diplôme et je l'ai obtenu.
+# Presentation :mega:
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vincent-zepharren/)
 
-Je suis à la recherche **d’un contrat d’apprentissage** ou **d'un contrat de professionnalisation** dans le cadre
-d'une formation de **Concepteur Développeur d’Applications**, à partir du 14 mars 2022 jusqu’au 30 juin 2023.
+My name is Vincent Zepharren, I'm 38 years old, I'm disabled.
+Last year, I did a Web and Mobile Web Developer training at O'Clock in 2020 and in 2021 I passed the diploma and I got it.
 
-_Node.js_, _React_, _Laravel_.
 
-## Compétences
-- HTML 5
-- CSS 3 - SASS
-- JavaScript
-- Boostrap
-- Wordpress
+
+# Technologies
+## web
+ ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+ ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+ ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+ ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
